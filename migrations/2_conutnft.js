@@ -1,7 +1,7 @@
 // migrations/2_deploy.js
 // SPDX-License-Identifier: MIT
 //const ERC721PresetMinterPauserAutoId = artifacts.require("ERC721PresetMinterPauserAutoId");
-const NFTDigital = artifacts.require("ConutNFT");
+const ConutNFT = artifacts.require("ConutNFT");
 //const BEP20FixedSupply = artifacts.require("BEP20FixedSupply");
 //const ContExchange = artifacts.require("ContExchange");
 
